@@ -24,7 +24,7 @@ If you’re looking to experiment, test strategies, or just have fun, Open Sesam
 ---
 ## 🔓 How to Enable Open Sesame
 
-There are two simple ways to activate the Open Sesame menu in [Cookie Clicker](https://cookieclicker.me):
+### There are two simple ways to activate the Open Sesame menu in [Cookie Clicker](https://cookieclicker.me):
 
 ### 1️⃣ Enable It Using Console Commands (Easiest Way)
 
@@ -55,7 +55,7 @@ Now, the Open Sesame menu will always appear when you load the save!
 ---
 ## 🔥 Best Open Sesame Commands
 
-Once the Open Sesame menu is open, you can access various game-breaking commands. Here are some of the most useful ones:
+### Once the Open Sesame menu is open, you can access various game-breaking commands. Here are some of the most useful ones:
 
 ### 🍪 Instant Cookie Boost
 
